@@ -14,18 +14,18 @@ span.body_text {
 	font-size: 150%;
 }
 body {
-    background: url(../p3/images/orb.jpg) blue;
+    background: url(images/orb.jpg) blue;
     background-size: 100%;
     color: azure;
 }
 textarea{
-    background: url(../p3/images/textarea.jpg) #1A5055;
+    background: url(images/textarea.jpg) #1A5055;
     border: #1A5055;
     border-style: groove;
     color: azure;
 }
 input[type="text"]{
-    background: url(../p3/images/textarea.jpg) #1A5055;
+    background: url(images/textarea.jpg) #1A5055;
     border: #1A5055;
     border-style: groove;
     color: azure;
